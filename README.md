@@ -10,6 +10,6 @@ This is a simple to-do web application built with Django, demonstrating CRUD ope
 - New user registration to onboard new members.
 
 # Requirements
-- Python 3.x
-- Django 3.x
+- Python 3.11.0
+- Django 4.1.3
 
